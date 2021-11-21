@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0c1be653-3b32-4f8f-8762-45e39c334f33" name="Code" url="http://121.48.165.6">
+        <fileTransfer host="121.48.165.6" port="7000" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="7000" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
